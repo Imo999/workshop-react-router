@@ -1,7 +1,6 @@
 # WorkShop - 17/05/2021 - Live Coding
 
 Site deployed on Netlify : https://workshop-react-router.netlify.app/
-Repo Git : https://github.com/Imo999/workshop-react-router
 
 ## Features :
 
@@ -10,6 +9,7 @@ Repo Git : https://github.com/Imo999/workshop-react-router
 # ![router](./public/img/WS-router.png)
 
 ## Install : 
+Repo Git : https://github.com/Imo999/workshop-react-router
 
 ```zsh
 % git clone git@github.com:Imo999/workshop-react-router.git
