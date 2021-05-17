@@ -4,7 +4,7 @@ Site deployed on Netlify : https://workshop-react-router.netlify.app/
 
 ## Features :
 
-- Project set up using `react-router` {Router, Switch, Redirect, Route, NavLink}
+- Project set up using `react-router-dom` {Router, Switch, Redirect, Route, NavLink}
 
 # ![router](./public/img/WS-router.png)
 
